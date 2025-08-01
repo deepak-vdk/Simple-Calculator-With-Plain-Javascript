@@ -23,7 +23,7 @@ A simple, interactive calculator built using plain JavaScript, HTML, and CSS. Th
 
 ## Screenshots
 
-![Calculator Screenshot](Simple Calculator With Plain Javascript.png)
+![Calculator Screenshot](Simple Calculator With Plain Javascript.PNG)
 
 ## Getting Started
 
